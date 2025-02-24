@@ -8,29 +8,32 @@
 
 ### support macOS
 
-| ----------- | ----------- |
-| macOS Monterey | 12.x |
-| macOS Ventura | 13.x |
-| macOS Sonoma | 14.x |
-| macOS Sequoia | 15.x |
+| macOS Version | Version Number |
+| ------------- | -------------- |
+| macOS Monterey | 12.x           |
+| macOS Ventura  | 13.x           |
+| macOS Sonoma   | 14.x           |
+| macOS Sequoia  | 15.x           |
 
 ### 硬件
 
-| ----------- | ----------- |
-| 芯片组 |  B760 |
-| Bios 版本 |  JYI7600F 2025-01-07 |
-| 处理器 |  英特尔13代 i5-13400F |
-| 内存 |  酷兽 32GB DDR4 3600Mhz |
-| 硬盘 |  梵想 Fanxiang S790 1TB Windows |
-| 核显 |  -- |
-| 独显 |  技嘉 Radeon RX 6600 8GB GDDR6 |
-| 声卡 |  瑞昱 ALC897 |
-| 有线网卡 |   瑞昱 RTL8125 Gaming 2.5GbE |
-| 有线网卡 |  瑞昱 RTL8168H/8111H |
-| 无线网卡 |  intel AX211 |
-| 处理器散热 | 利民 CS120 |
-| 机箱 |   乔思伯 D32 STD |
-| 电源 |  Thermalright(利民) 额定650W TR-TG650 金牌全模组 |
+| 组件         | 型号/规格                                   |
+| ------------ | ----------------------------------------- |
+| 芯片组       | B760                                       |
+| BIOS 版本    | JYI7600F 2025-01-07                        |
+| 处理器       | 英特尔 13代 i5-13400F                      |
+| 内存         | 酷兽 32GB DDR4 3600MHz                     |
+| 硬盘         | 梵想 Fanxiang S790 1TB Windows             |
+| 核显         | --                                         |
+| 独显         | 技嘉 Radeon RX 6600 8GB GDDR6              |
+| 声卡         | 瑞昱 ALC897                                |
+| 有线网卡     | 瑞昱 RTL8125 Gaming 2.5GbE                |
+| 有线网卡     | 瑞昱 RTL8168H/8111H                        |
+| 无线网卡     | Intel AX211                                |
+| 处理器散热   | 利民 CS120                                 |
+| 机箱         | 乔思伯 D32 STD                             |
+| 电源         | 利民 额定650W TR-TG650 金牌全模组          |
+
 
 ### BIOS设置
 
