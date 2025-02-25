@@ -55,7 +55,7 @@
 ### 注意事项
 
  - 安装成功后必须使用 [OCAuxiliaryTools](https://github.com/ic005k/OCAuxiliaryTools) 生成你自己的 SMBIOS
- - 如需使用没有小核心的CPU，必须取消勾选配置文件中Kernel--ProvideCurrentCpuinfo选项
+ - ~~如需使用没有小核心的CPU，必须取消勾选配置文件中Kernel--ProvideCurrentCpuinfo选项~~
  - 无线网卡方案有两种
    - 英特尔无线网卡驱动[itlwm.kext](https://github.com/OpenIntelWireless/itlwm/releases)适用于 MacOS 所有版本,连结WiFi请下载并使用[HeliPort.dmg](https://github.com/OpenIntelWireless/HeliPort/releases/download/v2.0.0-alpha/HeliPort.dmg).
    - 下载并添加[AirportItlwm.kext驱动](https://github.com/OpenIntelWireless/itlwm/releases)，此驱动必须对应 MacOS 系统版本，添加驱动至EFI-OC-Kexts文件夹，[参考](https://hackintosh.club/d/10000015)
